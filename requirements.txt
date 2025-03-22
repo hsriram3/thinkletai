@@ -8,3 +8,4 @@ unstructured
 tiktoken
 transformers
 sentence-transformers
+PyPDF2
